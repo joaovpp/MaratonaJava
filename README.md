@@ -1,2 +1,2 @@
 # MaratonaJava
-Maratona Java
+Aulas do curso Maratona Java do DevDojo no Youtube!
